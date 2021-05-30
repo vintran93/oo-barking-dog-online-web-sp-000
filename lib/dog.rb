@@ -8,5 +8,9 @@ class Dog
   def name
     @fido
   end
+  
+  Dog.bark
+    puts "woof!"
+  end
 end
 
