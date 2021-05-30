@@ -8,9 +8,5 @@ class Dog
   def name
     @fido
   end
-  
-  @Dog
-    puts "Woof!"
-  end
 end
 
