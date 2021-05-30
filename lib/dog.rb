@@ -9,7 +9,7 @@ class Dog
     @fido
   end
   
-  fido.bark
+  @Dog
     puts "Woof!"
   end
 end
