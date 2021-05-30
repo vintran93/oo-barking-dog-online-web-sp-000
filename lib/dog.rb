@@ -4,4 +4,4 @@ class Dog
   def 
 end
 
-fido.name=(dogs_name)
+name=(dogs_name)
